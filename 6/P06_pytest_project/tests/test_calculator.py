@@ -5,8 +5,8 @@ from calculator.calculator import Calculator
 class TestCalculator: #radd comment at test_sample
     def test_add(self):
         # arrange
-        a = 5
-        b = 5
+        a = 50
+        b = 50
         cal = Calculator()
 
         # act
